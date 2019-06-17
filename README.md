@@ -17,17 +17,16 @@ Install git LFS { as source code is stored in GITLFS}
 ```sh
 git clone https://github.com/Nalagondap/MACID.git
 cd MACID
+```
 
 INSTALLING GIT LFS
 
 ```
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-
 apt-get install git-lfs
-
 git lfs install
-
 ```
+
 Run the wrapper script to get the required output
 
 ```sh

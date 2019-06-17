@@ -6,7 +6,7 @@ Clone the repository using below step
 git clone https://github.com/Nalagondap/MACID.git
 cd MACID
 ```
-Build the image and run the container through below Wrapper scripit
+ Wrapper script
 ```sh
 sh macid.sh
 ```

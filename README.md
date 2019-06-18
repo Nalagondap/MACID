@@ -22,8 +22,8 @@ sudo apt-get install git-lfs
 # Process of Execution:
 
 ```sh
-git clone https://github.com/Nalagondap/.git
-cd MACID
+git clone https://github.com/Nalagondap/macid.git
+cd macid
 ```
 
 Run the wrapper script to get the required output

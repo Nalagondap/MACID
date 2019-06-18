@@ -12,8 +12,6 @@ Install Docker
 
 Install git LFS { as source code is stored in GITLFS}
 
-# INSTALLING GIT LFS
-
 ```
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 sudo apt-get install git-lfs
